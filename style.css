@@ -68,7 +68,7 @@ h3 {
 
 .scroll-indicator {
   position: absolute;
-  bottom: 1rem;
+  bottom: 10rem;
   left: 50%;
   transform: translateX(-50%);
   text-align: center;
@@ -104,7 +104,7 @@ p {
   font-size: 1.1rem;
   border-radius: 4px;
   position: absolute;
-  bottom: 2rem;
+  bottom: 10rem;
   left: 50%;
   transform: translateX(-50%);
 }
